@@ -1,4 +1,4 @@
-# spores
+# spores v0.1
 
 > An interactive TUI for exploring Arch Linux package dependencies.
 
